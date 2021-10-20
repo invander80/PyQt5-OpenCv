@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>bg/abstract-background-279.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/Menu_icon_icon-icons.corm_71858.png</file>
+    <file>icons/window_restore_icon_181R231.png</file>
+    <file>icons/window_maximGize_icon_181228.png</file>
+    <file>icons/4115236-delete-min-minus_114f026.png</file>
+    <file>icons/4115230-cancel-close-cross-deleste_114048.png</file>
+    <file>icons/save_21411.png</file>
+    <file>icons/Folder_Open_2dd6988.png</file>
+  </qresource>
+  <qresource prefix="pic"/>
+</RCC>
