@@ -1,6 +1,6 @@
 from data.functions import *
 import cv2, imutils, os
-
+##Kommentar
 
 class MainWindow(Functions):
     def __init__(self):
